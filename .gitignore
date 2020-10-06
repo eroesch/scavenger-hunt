@@ -1,6 +1,6 @@
 *.py[cod]
 
-# clues/
+clues/
 
 # C extensions
 *.so
